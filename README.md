@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Profile created as part of Master's Program at UIC.
+
+Name: Agnidipto Sinha
+University Email: asinh40@uic.edu
+
 <!--
 **AgnidiptoSinha/AgnidiptoSinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
