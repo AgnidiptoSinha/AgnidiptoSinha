@@ -2,7 +2,7 @@
 
 Profile created as part of Master's Program at UIC.
 
-Name: Agnidipto Sinha
+Name: Agnidipto Sinha <br/>
 University Email: asinh40@uic.edu
 
 <!--
